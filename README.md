@@ -1,7 +1,7 @@
 # meetup_materials
 Materials presented at various meetups. Presentations are coded using LaTeX.
 
-More about LaTeX: https://www.overleaf.com/latex/templates
+Sample templates for LaTeX: https://www.overleaf.com/latex/templates
 
 ### [Central Cybersecurity Meetup](https://www.meetup.com/Central-Cyber-Security-Meetup/)
 
