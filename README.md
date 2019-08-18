@@ -8,7 +8,7 @@ To edit, upload the zip file to an online LaTeX editor or edit locally with MiKT
 Sample templates for LaTeX: https://www.overleaf.com/latex/templates
 
 The following presentations were coded in LaTeX:
-* Central_Cybersecurity-Machine_Learning_Challenges_in_CyberSecurity.pdf
+* [Central_Cybersecurity-Machine_Learning_Challenges_in_CyberSecurity.pdf](https://github.com/j-chat/meetup_materials/blob/master/presentations/Central_Cybersecurity-Machine_Learning_Challenges_in_CyberSecurity.pdf)
 
 ## Links to Meetup Groups
 ### [Central Cybersecurity Meetup](https://www.meetup.com/Central-Cyber-Security-Meetup/)
