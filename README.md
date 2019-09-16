@@ -12,6 +12,4 @@ The following presentations were coded in LaTeX:
 
 ## Links to Meetup Groups
 ### [Central Cybersecurity Meetup](https://www.meetup.com/Central-Cyber-Security-Meetup/)
-### [Data Science Phoenix Meetup](https://www.meetup.com/Data-Science-Phoenix/)
-### [Learn Data Science Phoenix Meetup](https://www.meetup.com/ldsphx/)
 
